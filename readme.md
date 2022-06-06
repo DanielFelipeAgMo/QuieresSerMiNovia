@@ -1,0 +1,1 @@
+El objetivo de este script es una propuesta que no permita un No por respuesta, utilizando javascript y Bootstrap.
